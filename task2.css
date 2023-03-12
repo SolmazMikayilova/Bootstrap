@@ -1,0 +1,26 @@
+*{
+    font-size: large;
+}
+nav{
+    position: fixed;
+    background-color: #212529;
+    color: #9b9d9e;
+    width: 100%;
+}
+.logo{
+    color: white;
+    display: inline-block;
+}
+nav ul{
+    float: right;
+}
+nav ul li{
+    display: inline-block;   
+}
+nav ul li a{
+    text-decoration: none;
+    color: #9b9d9e;
+}
+nav ul li a:hover{
+    color: white;
+}

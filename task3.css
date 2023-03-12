@@ -1,0 +1,28 @@
+*{
+    font-size: large;
+  }
+nav{
+    width: 100%;
+}
+nav div{
+    position: fixed;
+}
+nav button{
+    float: right;  
+}
+.logo{
+    display: inline-block;
+}
+.d-flex li{
+    padding-right: 4%;
+    list-style-type: none;
+}
+
+.ul2{
+    display: flex;
+    list-style-type: none;
+    float: right;
+}
+.ul2 li{
+    padding: 11%;
+}
